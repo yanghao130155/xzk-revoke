@@ -4,5 +4,7 @@
   "revoked": [
     "9001"
   ],
-  "blocked": []
+  "blocked": [
+    "PHONEBLK001"
+  ]
 }
