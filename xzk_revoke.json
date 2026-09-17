@@ -1,1 +1,8 @@
-{"v":1,"updatedAt":"20260917","revoked":[],"blocked":[]}
+{
+  "v": 1,
+  "updatedAt": "20260917",
+  "revoked": [
+    "A26091701"
+  ],
+  "blocked": []
+}
