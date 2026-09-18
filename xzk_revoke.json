@@ -1,6 +1,8 @@
 {
   "v": 1,
   "updatedAt": "20260918",
-  "revoked": [],
+  "revoked": [
+    "A26091801KSS"
+  ],
   "blocked": []
 }
