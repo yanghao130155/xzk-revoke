@@ -1,15 +1,10 @@
 {
   "v": 1,
   "updatedAt": "20261125",
-  "stamp": "20261125173841",
+  "stamp": "20261125175437",
   "revoked": [
     "A2611250172P",
-    "A26112502HPJ",
-    "A26112501EL6",
-    "IOS-4c9639df-8170-4a94-b9ad-7ff6c6bab881"
+    "A26112502HPJ"
   ],
-  "blocked": [
-    "IOS-4c9639df-8170-4a94-b9ad-7ff6c6bab881",
-    "4c9639df-8170-4a94-b9ad-7ff6c6bab881"
-  ]
+  "blocked": []
 }
